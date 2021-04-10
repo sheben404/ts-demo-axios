@@ -78,6 +78,8 @@ import axios from '../../src/index'
 //   data: arr
 // })
 
+
+
 // axios({
 //   method: 'post',
 //   url: '/base/post',
@@ -107,6 +109,8 @@ import axios from '../../src/index'
 //   url: '/base/post',
 //   data: searchParams
 // })
+
+
 
 axios({
   method: 'post',
